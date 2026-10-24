@@ -1,0 +1,23 @@
+{
+  "version": "0.4.6-beta",
+  "downloads": [
+    {
+      "name": "Stealth-Drop-Tanks-0.4.6-beta.zip",
+      "bytes": 4018082,
+      "sha256": "a002d56dbb70850841bc527c57724beb471e52fbaf3d11c9b08132022750708e"
+    },
+    {
+      "name": "Stealth-Drop-Tanks-0.4.6-authoring.zip",
+      "bytes": 16081054,
+      "sha256": "8b0767751bf060e4f12959cbf7686aa57868bf2578d12c9bde6beea4ea9dbe41"
+    }
+  ],
+  "generatedRuntimeFiles": {
+    "F22LDTPTrial/Assets/LOD0.lua": "4894373ee28841fafe93e08f43f4e441a9af4c15fa5cc6710cbe61f23a9f667c",
+    "F22LDTPTrial/Assets/LOD1.lua": "9af0782f2019e6efdc0dfb9826d6827290b90737e8df42579bc74df9e618fd33",
+    "F22LDTPTrial/Assets/LOD2.lua": "785e4934a7b8deb476d54fcaa5a5f620c5feb7789c66d03bad58afbe7a6b8956",
+    "TexturePayload/F22Shader03/F22Shader03_P.pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+    "TexturePayload/F22Shader03/F22Shader03_P.ucas": "46cf6b126b07776bb56530e4fb2e32ea6272bfcd4759d8005c3f0c35760633d3",
+    "TexturePayload/F22Shader03/F22Shader03_P.utoc": "26b5d3144fd98eb5b0d866c74e7d4e95a56d52dfe25fab92918dfc8443432af5"
+  }
+}

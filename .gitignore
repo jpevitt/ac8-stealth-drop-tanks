@@ -1,0 +1,25 @@
+# Generated release assets and local/private development data
+dist/
+exports/
+textures/
+GameMaps/
+RuntimeTexturePayload/
+F22LDTPTrial/Assets/
+references/
+backups/
+deployment-backups/
+private-inspection/
+tools/
+Saved/
+Intermediate/
+DerivedDataCache/
+__pycache__/
+*.pyc
+*.log
+*.mkv
+*.mp4
+*.usmap
+*.exe
+*.dll
+.env
+.env.*
